@@ -9,9 +9,6 @@ I'm a passionate learner, always eager to explore new technologies and deepen my
 ## 🚀 What I'm Currently Learning
 - **Machine Learning Fundamentals**
 - **Exploratory Data Analysis (EDA) with Python (pandas, numpy, matplotlib, seaborn)**
-- **Regression techniques (Linear Regression, etc.)**
-- **Kaggle Competitions and Notebooks:** Applied predictive modeling in domains like house prices and energy consumption
-- **Geometric Deep Learning, Large Action Models (LAM’s), Neurosymbolic Models**
 - **Natural Language Processing (NLP), Large Language Models**
 - **Visualization tools (matplotlib, seaborn) and project documentation for reproducibility**
 - **Efficient GitHub workflow** including README.md, .gitignore, requirements.txt, project organization, and repo optimization
@@ -24,12 +21,35 @@ I'm a passionate learner, always eager to explore new technologies and deepen my
 - **Energy Consumption ML Prediction:** Real-world linear regression modelling, feature engineering, and predictive analytics
 
 ---
+---
+
+## 📊 GitHub Stats & Activity
+
+### 🔥 Contribution Streak
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+
+### 📈 GitHub Statistics
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+
 
 ## 📈 Skills & Tools
 - Python, pandas, numpy, matplotlib, seaborn
 - scikit-learn, jupyter-notebook
 - Data Cleaning, EDA, Regression, Prediction, Visualization
 - Git & GitHub: repo management, markdown, workflow automation
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
