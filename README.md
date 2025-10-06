@@ -26,13 +26,13 @@ I'm a passionate learner, always eager to explore new technologies and deepen my
 ## 📊 GitHub Stats & Activity
 
 ### 🔥 Contribution Streak
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rivu5555&theme=dark)
 
 ### 📈 GitHub Statistics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rivu5555&show_icons=true&theme=dark&count_private=true)
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rivu5555&layout=compact&theme=dark)
 
 
 ## 📈 Skills & Tools
